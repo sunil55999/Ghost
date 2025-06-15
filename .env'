@@ -1,0 +1,9 @@
+# Telegram API credentials (obtain from https://my.telegram.org)
+TELEGRAM_API_ID=28379900
+TELEGRAM_API_HASH=adfb7ded9ea115418b5ea2ebbd0e90d5
+
+# Your Telegram phone number (used for user session authentication)
+PHONE=+9182638 35646
+
+# Your Telegram user ID (to receive notifications and authorize commands)
+OWNER_ID=your_telegram_id_here
